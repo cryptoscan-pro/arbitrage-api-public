@@ -1,6 +1,6 @@
 # Arbitrage API - Cryptoscan
 
-Real-time cryptocurrency arbitrage opportunity detection service that monitors price differences across exchanges and networks
+Real-time cryptocurrency arbitrage opportunity detection service that monitors price differences across exchanges and networks.
 
 **Contacts**: https://t.me/dan_cryptoscan
 
