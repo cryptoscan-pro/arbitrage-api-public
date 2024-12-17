@@ -2,7 +2,6 @@
 
 Real-time cryptocurrency arbitrage opportunity detection service that monitors price differences across exchanges and networks
 
-**Current Price**: $600
 **Contacts**: https://t.me/dan_cryptoscan
 
 What you get:
